@@ -1,2 +1,2 @@
-# Clasificador_riesgo
+# Clasificador_riesgo_HTA
 Clasificador binario de hipertensión arterial
